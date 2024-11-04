@@ -86,6 +86,7 @@ val RTA = (a: Int) => (1 to a).sum
 ```
 
 ## Imágenes del código en Intellij IDEA
+**Ejemplos de Funciones Anonimas Basicas**
  ![Ejemplos de Funciones Anonimas Basicas](./IMG/ejemplos.png)
-
+**Comparación de Funciones Nombradas y Funciones Anónimas**
   ![Comparación de Funciones Nombradas y Funciones Anónimas](./IMG/comparacion.png)
