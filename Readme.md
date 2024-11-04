@@ -84,4 +84,6 @@ def Sum (a: Int) = (1 to a).sum
 ```Scala
 val RTA = (a: Int) => (1 to a).sum
 ```
- 
+
+## Imágenes del código en Intellij IDEA
+ ![Ejemplos de Funciones Anonimas Basicas](./IMG/ejemplos.png)
